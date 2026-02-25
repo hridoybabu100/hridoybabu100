@@ -35,18 +35,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hridoybabu100&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hridoy-akanda&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridoybabu100E&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridoy-akanda&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 Profile Views
 
-![](https://komarev.com/ghpvc/?username=hridoybabu100&color=blue)
+![](https://komarev.com/ghpvc/?username=hridoy-akanda&color=blue)
 
 ---
 
