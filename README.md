@@ -1,17 +1,33 @@
-# 👋 Hi, I'm Hridoy Akanda
-
-## 🚀 About Me
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
-- 💻 Passionate about Frontend Development
-- 🎯 Goal: Become a Professional Web Developer
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Hridoy+Akanda;Frontend+Developer+in+Progress;Learning+JavaScript+Deeply;Building+My+Future+with+Code" />
+</p>
 
 ---
 
-## 🛠️ Skills
+# 👋 Hello, I'm Hridoy Akanda
 
-### 👨‍💻 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+🎯 Focused on becoming a Professional Web Developer  
+💻 Currently learning **HTML, CSS, JavaScript**  
+🚀 Passionate about Frontend Development  
+📍 Bangladesh  
+
+---
+
+## 🧠 Current Learning Focus
+
+- Responsive Design (Media Queries)
+- DOM Manipulation
+- Event Handling
+- JavaScript Fundamentals
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
@@ -19,20 +35,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 ---
 
 ## 📫 Connect With Me
 
-[![Facebook][(https://www.facebook.com/share/1dA92W3APz/)](YOUR_FACEBOOK_LINK)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/hridoybabu?utm_source=share_via&utm_content=profile&utm_medium=member_android))](YOUR_LINKEDIN_LINK)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([YOUR_FACEBOOK_LINK](https://www.linkedin.com/in/hridoybabu?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/hridoybabu?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ---
 
-⭐ From Hridoy Akanda
+⭐ "Consistency beats motivation."
