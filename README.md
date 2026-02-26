@@ -2,8 +2,12 @@
 <h3 align="center">Frontend developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoybabu100&label=Profile%20views&color=0e75b6&style=flat" alt="hridoybabu100" /> </p>
+<p align="center">
+  <img src="[./assets/banner.png](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbn7jyz1e1o19j5cor9so.png)" alt="Banner" width="100%" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoybabu100" alt="hridoybabu100" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/@akandahrid75421" target="blank"><img src="https://img.shields.io/twitter/follow/@akandahrid75421?logo=twitter&style=for-the-badge" alt="@akandahrid75421" /></a> </p>
 
