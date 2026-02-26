@@ -7,11 +7,6 @@
        alt="Banner" 
        width="100%" />
 </p>
-## 🏆 Achievements
-
-<p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?](https://user-images.githubusercontent.com/6661165/131685203-92a31101-2d93-4d18-b24a-d81a8bb012c5.png)username=hridoybabu100&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=hridoybabu100" alt="hridoybabu100" /></a> </p>
 
