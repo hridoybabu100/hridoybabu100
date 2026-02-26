@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoybabu100&label=Profile%20views&color=0e75b6&style=flat" alt="hridoybabu100" /> </p>
 <p align="center">
-  <img src="[./assets/banner.png](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbn7jyz1e1o19j5cor9so.png)" alt="Banner" width="100%" />
+  <img src="https://wallpapers.com/images/hd/technology-linkedin-background-dce01jsbpnn0z2ej.jpg" 
+       alt="Banner" 
+       width="100%" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoybabu100" alt="hridoybabu100" /></a> </p>
