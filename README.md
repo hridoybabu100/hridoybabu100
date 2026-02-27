@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hridoy Hasan (Babu)</h1>
-<h3 align="center">Frontend developer from Bangladesh.</h3>
-
 <p align="left"> <img src="https://pbs.twimg.com/media/HCMbmZlaAAAS5ZP?format=jpg&name=4096x4096" alt="hridoybabu100" /> </p>
-<p align="center">
+<!-- <p align="center">
   img src="https://pbs.twimg.com/media/HCD6tmsboAAoGdL?format=jpg&name=large" 
        alt="Banner" 
        width="100%" />
-</p>
-
+</p> -->
+<h3 align="left">Frontend developer from Bangladesh.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=hridoybabu100" alt="hridoybabu100" /></a> </p>
 
 
