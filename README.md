@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://pbs.twimg.com/media/HCMbmZlaAAAS5ZP?format=jpg&name=4096x4096" alt="hridoybabu100" /> </p>
 <p align="center">
-  <img src="https://pbs.twimg.com/media/HCD6tmsboAAoGdL?format=jpg&name=large" 
+  img src="https://pbs.twimg.com/media/HCD6tmsboAAoGdL?format=jpg&name=large" 
        alt="Banner" 
        width="100%" />
 </p>
