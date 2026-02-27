@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hridoy Hasan (Babu)</h1>
 <h3 align="center">Frontend developer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoybabu100&label=Profile%20views&color=0e75b6&style=flat" alt="hridoybabu100" /> </p>
+<p align="left"> <img src="https://pbs.twimg.com/media/HCMbmZlaAAAS5ZP?format=jpg&name=4096x4096" alt="hridoybabu100" /> </p>
 <p align="center">
   <img src="https://pbs.twimg.com/media/HCD6tmsboAAoGdL?format=jpg&name=large" 
        alt="Banner" 
