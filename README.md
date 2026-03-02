@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/@akandahrid75421" target="blank"><img src="https://img.shields.io/twitter/follow/@akandahrid75421?logo=twitter&style=for-the-badge" alt="@akandahrid75421" /></a> </p>
 
-- 🔭 I’m currently working on **hridoybabu100**
+- 🔭I’m currently working on Full Stack Web Development**
 
 - 👯 I’m looking to collaborate on **hridoybabu100**
 
