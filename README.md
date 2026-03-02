@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hridoy Hasan (Babu)</h1>
+<h1 align="center">Hi 👋, I'm Hridoy Hasan (Babu) </h1>
 <p align="left"> <img src="https://pbs.twimg.com/media/HCMbmZlaAAAS5ZP?format=jpg&name=4096x4096" alt="hridoybabu100" /> </p>
 <!-- <p align="center">
   img src="https://pbs.twimg.com/media/HCD6tmsboAAoGdL?format=jpg&name=large" 
@@ -11,10 +11,12 @@
 
 <p align="left"> <a href="https://twitter.com/@akandahrid75421" target="blank"><img src="https://img.shields.io/twitter/follow/@akandahrid75421?logo=twitter&style=for-the-badge" alt="@akandahrid75421" /></a> </p>
 
-- 🔭I’m currently working on Full Stack Web Development**
+- 🔭I’m currently working on **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **hridoybabu100**
+- 👯I’m looking to collaborate on **MERN Stack Projects**
 
+- ⚡ Fun fact: I love building **interactive web apps**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@akandahrid75421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@akandahrid75421" height="30" width="40" /></a>
