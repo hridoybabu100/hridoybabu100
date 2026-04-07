@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=I+am+Hridoy+Hasan+Babu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=I+am+Hridoy+Hasan+Babu..." alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hridoy Hasan (Babu) </h1>
