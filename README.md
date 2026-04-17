@@ -18,7 +18,7 @@
 - 🧠 Backend-first engineer with strong system design & problem-solving mindset
 - 🌱 Currently deep-diving into **Next.js ecosystem & scalable backend architecture**
 - 💬 Ask me about **MERN / PERN / Django REST / Databases**
-- 📫 Reach me at **isaahmedshan190138@gmail.com**
+- 📫 Reach me at **hridoyakanda100@gmail.com**
 - ⚡ Fun fact: I debug better at night 🌙
 
 ---
@@ -26,7 +26,7 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://isa-ahamed-san-portfolio.vercel.app" target="_blank">
+  <a href="https://assingment-7-ken-keeper.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white"/>
   </a>
   <a href="www.linkedin.com/in/hridoy-babu/" target="_blank">
