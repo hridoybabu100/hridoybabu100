@@ -22,6 +22,9 @@
 - 💬 Ask me about **MERN / PERN / Django REST / Databases**
 - 📫 Reach me at **hridoyakanda100@gmail.com**
 - ⚡ Fun fact: I debug better at night 🌙
+- ⚡ Fun fact: I debug better at night 🌙
+- ⚡ Fun fact: I debug better at night 🌙
+- ⚡ Fun fact: I debug better at night 🌙
 
 ---
 
