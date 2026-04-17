@@ -13,7 +13,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="250" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhwNXJ2ZmpzYjhjODE5d2Eyc2d2YXMxdmk3MmFtazZmNTN1NHQyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px;">
+
+<div style="flex: 1; min-width: 280px;">
 
 - 🎓 CU Undergraduate @ **University of Chittagong**
 - 👨‍🏫 Web Instructor @ **Programming Hero** — full-stack web development
@@ -22,9 +24,20 @@
 - 💬 Ask me about **MERN / PERN / Django REST / Databases**
 - 📫 Reach me at **hridoyakanda100@gmail.com**
 - ⚡ Fun fact: I debug better at night 🌙
-- ⚡ I enjoy turning ideas into real projects
-- 📍 Based in Bangladesh
+- 📍 Based in Bangladesh 🇧🇩
 
+</div>
+
+<div style="flex: 0 0 250px; text-align: center;">
+
+<img 
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhwNXJ2ZmpzYjhjODE5d2Eyc2d2YXMxdmk3MmFtazZmNTN1NHQyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
+  width="250" 
+/>
+
+</div>
+
+</div>
 ---
 
 <h3 align="left">Connect with me:</h3>
