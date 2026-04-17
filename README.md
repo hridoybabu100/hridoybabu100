@@ -13,31 +13,28 @@
 
 ## 👨‍💻 About Me
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px;">
-
-<div style="flex: 1; min-width: 280px;">
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
 - 🎓 CU Undergraduate @ **University of Chittagong**
-- 👨‍🏫 Web Instructor @ **Programming Hero** — full-stack web development
-- 🧠 Backend-first engineer with strong system design & problem-solving mindset
-- 🌱 Currently deep-diving into **Next.js ecosystem & scalable backend architecture**
-- 💬 Ask me about **MERN / PERN / Django REST / Databases**
-- 📫 Reach me at **hridoyakanda100@gmail.com**
-- ⚡ Fun fact: I debug better at night 🌙
-- 📍 Based in Bangladesh 🇧🇩
+- 👨‍🏫 Web Instructor @ **Programming Hero**
+- 🧠 Backend-first engineer with system design mindset
+- 🌱 Currently learning **Next.js & scalable backend**
+- 💬 Ask me about **MERN / PERN / Django REST / DB**
+- 📫 Email: **hridoyakanda100@gmail.com**
+- ⚡ Debug better at night 🌙
+- 📍 Bangladesh 🇧🇩
 
-</div>
+    </td>
 
-<div style="flex: 0 0 250px; text-align: center;">
+    <td width="35%" align="center" valign="top">
 
-<img 
-  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhwNXJ2ZmpzYjhjODE5d2Eyc2d2YXMxdmk3MmFtazZmNTN1NHQyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
-  width="250" 
-/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhwNXJ2ZmpzYjhjODE5d2Eyc2d2YXMxdmk3MmFtazZmNTN1NHQyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="220"/>
 
-</div>
-
-</div>
+    </td>
+  </tr>
+</table>
 ---
 
 <h3 align="left">Connect with me:</h3>
