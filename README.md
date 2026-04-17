@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7B42C&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Hridoy+Hasan Babu;Frontend+Developer;JavaScript+Learner;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7B42C&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Hridoy+Akanda;Frontend+Developer;JavaScript+Learner;Welcome+to+my+GitHub!" />
 </h1>
 <h1 align="center">Hi 👋, I'm Hridoy Hasan Babu</h1>
 <h3 align="center">Full Stack Web Devoloper | Web Instructor @ Programming Hero | Backend-First | MERN / PERN</h3>
