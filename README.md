@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">Hi 👋, I'm San</h1>
-<h3 align="center">Full Stack Software Engineer | Web Instructor @ Programming Hero | Backend-First | MERN / PERN</h3>
+<h1 align="center">Hi 👋, I'm Hridoy Hasan Babu</h1>
+<h3 align="center">Full Stack Web Devoloper | Web Instructor @ Programming Hero | Backend-First | MERN / PERN</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Md-Isa-Ahamed-San&label=Profile%20views&color=0e75b6&style=flat" />
@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="250" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhwNXJ2ZmpzYjhjODE5d2Eyc2d2YXMxdmk3MmFtazZmNTN1NHQyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
-- 🎓 CS Undergraduate @ **Jashore University of Science & Technology**
+- 🎓 CU Undergraduate @ **University of Chittagong**
 - 👨‍🏫 Web Instructor @ **Programming Hero** — teaching full-stack web development
 - 🧠 Backend-first engineer with strong system design & problem-solving mindset
 - 🌱 Currently deep-diving into **Next.js ecosystem & scalable backend architecture**
@@ -29,10 +29,10 @@
   <a href="https://isa-ahamed-san-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/isaahamedsan/" target="_blank">
+  <a href="www.linkedin.com/in/hridoy-babu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:isaahmedshan190138@gmail.com">
+  <a href="hridoyakanda100@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.programming-hero.com" target="_blank">
