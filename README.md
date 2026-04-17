@@ -16,7 +16,7 @@
 <img align="right" alt="Coding" width="250" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhwNXJ2ZmpzYjhjODE5d2Eyc2d2YXMxdmk3MmFtazZmNTN1NHQyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 - 🎓 CU Undergraduate @ **University of Chittagong**
-- 👨‍🏫 Web Instructor @ **Programming Hero** — teaching full-stack web development
+- 👨‍🏫 Web Instructor @ **Programming Hero** — full-stack web development
 - 🧠 Backend-first engineer with strong system design & problem-solving mindset
 - 🌱 Currently deep-diving into **Next.js ecosystem & scalable backend architecture**
 - 💬 Ask me about **MERN / PERN / Django REST / Databases**
@@ -61,5 +61,8 @@
 
 ---
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Dev Quote  
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
