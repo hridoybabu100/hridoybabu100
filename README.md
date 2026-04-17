@@ -29,7 +29,7 @@
   <a href="https://isa-ahamed-san-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/hridoy-babu" target="_blank">
+  <a href="www.linkedin.com/in/hridoy-babu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="hridoyakanda100@gmail.com">
